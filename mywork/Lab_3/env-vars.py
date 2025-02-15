@@ -1,4 +1,4 @@
-#!/Users/sunnypark/anaconda3/bin/python3
+#!/Library/Frameworks/Python.framework/Versions/3.13/bin/python3
 
 import os
 
